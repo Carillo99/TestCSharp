@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Providers.Domain\Providers.Domain.csproj" />
+    <ProjectReference Include="..\Providers.Infra.Data\Providers.Infra.Data.csproj" />
+    <ProjectReference Include="..\Providers.LoggerService\Providers.LoggerService.csproj" />
+  </ItemGroup>
+
+</Project>

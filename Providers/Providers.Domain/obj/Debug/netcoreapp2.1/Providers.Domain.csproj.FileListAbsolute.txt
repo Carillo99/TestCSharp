@@ -1,0 +1,17 @@
+C:\Users\gleis\workspace\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.deps.json
+C:\Users\gleis\workspace\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.dll
+C:\Users\gleis\workspace\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.pdb
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.AssemblyInfo.cs
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.dll
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.pdb
+C:\Users\gleis\workspace\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.csprojAssemblyReference.cache
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.deps.json
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.dll
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\bin\Debug\netcoreapp2.1\Providers.Domain.pdb
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.AssemblyInfo.cs
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.dll
+C:\Users\gleis\workspace\Bludata\Providers\Providers.Domain\obj\Debug\netcoreapp2.1\Providers.Domain.pdb

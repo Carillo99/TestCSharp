@@ -1,0 +1,14 @@
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\Providers.Tests.deps.json
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\Providers.Tests.runtimeconfig.json
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\Providers.Tests.runtimeconfig.dev.json
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\Providers.Tests.dll
+C:\Users\gleis\workspace\Providers\Providers.Tests\bin\Debug\netcoreapp2.1\Providers.Tests.pdb
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.AssemblyInfo.cs
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.dll
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.pdb
+C:\Users\gleis\workspace\Providers\Providers.Tests\obj\Debug\netcoreapp2.1\Providers.Tests.csprojAssemblyReference.cache

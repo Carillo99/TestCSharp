@@ -1,0 +1,8 @@
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\bin\Debug\netcoreapp2.1\Providers.LoggerService.deps.json
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\bin\Debug\netcoreapp2.1\Providers.LoggerService.dll
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\bin\Debug\netcoreapp2.1\Providers.LoggerService.pdb
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\obj\Debug\netcoreapp2.1\Providers.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\obj\Debug\netcoreapp2.1\Providers.LoggerService.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\obj\Debug\netcoreapp2.1\Providers.LoggerService.AssemblyInfo.cs
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\obj\Debug\netcoreapp2.1\Providers.LoggerService.dll
+C:\Users\gleis\workspace\Bludata\Providers\Providers.LoggerService\obj\Debug\netcoreapp2.1\Providers.LoggerService.pdb

@@ -1,0 +1,14 @@
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Ioc.deps.json
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Ioc.dll
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Ioc.pdb
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Domain.dll
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Infra.Data.dll
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Domain.pdb
+C:\Users\gleis\workspace\Providers\Providers.Ioc\bin\Debug\netcoreapp2.1\Providers.Infra.Data.pdb
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.csprojAssemblyReference.cache
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.AssemblyInfoInputs.cache
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.AssemblyInfo.cs
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.csproj.CopyComplete
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.dll
+C:\Users\gleis\workspace\Providers\Providers.Ioc\obj\Debug\netcoreapp2.1\Providers.Ioc.pdb
