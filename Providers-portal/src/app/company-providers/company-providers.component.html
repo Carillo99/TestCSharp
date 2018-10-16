@@ -1,0 +1,48 @@
+<div class="container">
+	<section class="mt-5">
+      	<div class="row">
+        	<input routerLink="/create" type="button" class="btn btn-secondary btn-sm" name="Create" value="Create">
+      	</div>
+    </section>
+	<section class="mt-5">
+		<div class="row">
+			    <input class="form-control mr-sm-2" type="search" [(ngModel)]="filter.name && filter.cpF_CNPJ" placeholder="Search" aria-label="Search" (change)="onFilterChange()">
+		    
+	    </div>
+	</section>
+	<section class="mt-5">
+	    <div class="row">
+			<table class="table">
+			  <thead class="thead-light">
+			    <tr>
+			      <th scope="col">Name</th>
+			      <th scope="col">CPF or CNPJ</th>
+			      <th scope="col">Type Providers</th>
+			      <th scope="col">Ativo</th>
+			      <th scope="col">companyId</th>
+			      <th scope="col">Date Birth</th>
+			      <th scope="col">RG</th>
+			      <th scope="col">Age</th>
+			      <th></th>
+			    </tr>
+			  </thead>
+			  <tbody>
+			    <tr *ngFor="let companyProviders of companyProviders$">
+			      	<td>{{companyProviders?.name}}</td>
+			      	<td>{{companyProviders?.cpF_CNPJ}}</td>
+			      	<td>{{companyProviders?.typeProviders}}</td>
+			      	<td>{{companyProviders?.ativo}}</td>
+			      	<td>{{companyProviders?.companyId}}</td>
+			     	<td>{{companyProviders?.dateBirth}}</td>
+			      	<td>{{companyProviders?.rg}}</td>
+	    		    <td>{{companyProviders?.age}}</td>
+	
+                  	<td>
+                  		<input [routerLink]="['/detail', companyProviders.id]" type="button" class="btn btn-secondary btn-sm" name="Detail" value="Detail">
+                  	</td>
+			    </tr>
+			  </tbody>
+			</table>
+		</div>
+	</section>
+</div>

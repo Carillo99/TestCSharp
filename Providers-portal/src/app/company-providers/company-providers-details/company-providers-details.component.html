@@ -1,0 +1,21 @@
+<div class="container">
+	<section class="my-4">
+   		<input routerLink="" type="button" class="btn btn-secondary btn-sm" value="Return List Company Providers">
+   	</section>
+
+    <section class="my-4">
+        <h1>{{companyProviders?.name}}</h1>
+    </section>
+    
+    <section class="my-4">
+		<ul>
+			<li><strong> CPF or CNPJ:</strong> {{companyProviders?.cpF_CNPJ}}</li>
+			<li><strong> Type Providers:</strong> {{companyProviders?.typeProviders}}</li>
+			<li><strong> Ativo:</strong> {{companyProviders?.ativo}}</li>
+			<li><strong> companyId:</strong> {{companyProviders?.companyId}}</li>
+			<li><strong> Date Birth:</strong> {{companyProviders?.dateBirth}}</li>
+			<li><strong> RG:</strong> {{companyProviders?.rg}}</li>
+			<li><strong> Age:</strong> {{companyProviders?.age}}</li>
+		</ul>
+	</section>
+</div>

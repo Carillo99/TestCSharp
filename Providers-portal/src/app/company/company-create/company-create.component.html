@@ -1,0 +1,48 @@
+<main role="main">
+  	<section class="my-4">
+	    <div class="container">
+	      <input routerLink="/company" type="button" class="btn btn-secondary btn-sm" value="Return List Company Providers">
+	    </div>
+  	</section>
+
+  	<section class="my-4">
+	    <div class="container">
+	        <h2>Cadastro de Contribuintes</h2>
+	    </div>
+  	</section>
+	<section class="my-4">
+		<div class="container">
+			<div class="row">
+				<form (ngSubmit)="f.form.valid && addTaxpayer()" name="form" #f="ngForm">
+				  	<div class="form-group">
+					    <label for="fantasyName">Fantasy Name</label>
+					    <input type="text" id="fantasyName" name="fantasyName"
+	                        class="form-control" placeholder="Fantasy Name" [(ngModel)]="currentCompany.fantasyName" #fantasyName="ngModel" [ngClass]="{ 'is-invalid': f.submitted &&  fantasyName.invalid }" required/>
+				        <div *ngIf="f.submitted && (fantasyName.invalid && (fantasyName.dirty || fantasyName.touched))" class="invalid-feedback">
+				            <div *ngIf="fantasyName.errors.required">First Name is required</div>
+				        </div>
+				  	</div>
+				  	<div class="form-group">
+					    <label for="cnpj">CNPJ</label>
+					    <input type="text" id="cnpj" name="cnpj" class="form-control" placeholder="CNPJ" [(ngModel)]="currentCompany.cnpj" #cnpj="ngModel" [ngClass]="{ 'is-invalid': f.submitted && cnpj.invalid }" required/>
+					    <div *ngIf="f.submitted && (cnpj.invalid && (cnpj.dirty || cnpj.touched))" class="invalid-feedback">
+				        	<div *ngIf="cnpj.errors.required">CNPJ is required</div>
+				    	</div>
+				  	</div>
+				  	<div class="form-group">
+					    <label for="uf">UF</label>
+						<select name="uf" class="form-control"  [(ngModel)]="currentCompany.uf"  #uf="ngModel"  [ngClass]="{ 'is-invalid': f.submitted && uf.invalid }" required>
+					        <option *ngFor="let type of UF.values();">
+					          {{type}}
+					        </option>
+					     </select>
+					     <div *ngIf="f.submitted && (uf.invalid && (uf.dirty || uf.touched))" class="invalid-feedback">
+				        	<div *ngIf="uf.errors.required">UF is required</div>
+				    	</div>
+				  	</div>
+				  	<button type="submit" class="btn btn-primary" >Salvar</button>
+				</form>
+			</div>
+		</div>
+	</section>
+</main>

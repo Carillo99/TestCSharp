@@ -1,0 +1,13 @@
+<div class="container">
+	
+    <input routerLink="/compony" type="button" class="btn btn-secondary btn-sm" value="Return List Tax Payer">
+    <section class="my-4">
+    <div class="container">
+        <h1>{{company$?.fantasyName}}</h1>
+    </div>
+  </section>
+    
+	<ul>
+		<li><strong> CNPJ:</strong> {{company$?.cnpj}}</li>
+		<li><strong> UF:</strong> {{company$?.uf}}</li>
+	</ul>

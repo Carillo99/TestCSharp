@@ -1,0 +1,26 @@
+<main>
+  <section class="my-4">
+    <div class="container">
+        <h2> Minimum Wade</h2>
+    </div>
+  </section>
+  
+  <section>
+    <div class="container">
+      <form method="post">
+        <div class="form-group">
+
+          <input type="text" id="phone" name="phone"
+            class="form-control" placeholder="phone" [(ngModel)]="currentPhoneProviders.phone" required/>
+        </div>
+
+        <button type="submit" class="btn btn-primary" [routerLink]="['']"
+          [disabled]="currentPhoneProviders.invalid" (click)="addPhone()">Salvar</button>
+      </form>
+    </div>
+  </section>
+</main>
+
+
+
+

@@ -1,0 +1,33 @@
+<section class="mt-5">
+    <div class="container">
+      <div class="row">
+        <h1>Company</h1>
+      </div>
+    </div>
+</section>
+<section class="mt-5">
+	<div class="container">
+		<div class="row">
+			<table class="table">
+			  <thead class="thead-light">
+			    <tr>
+			      <th scope="col">Fantasy Name</th>
+			      <th scope="col">CNPJ</th>
+			      <th scope="col">UF</th>
+			      <th></th>
+			    </tr>
+			  </thead>
+			  <tbody>
+			    <tr *ngFor="let company of company$">
+			      	<td>{{company.fantasyName}}</td>
+			      	<td>{{company.cnpj}}</td>
+			      	<td>{{company.uf}}</td>
+			      	<td>
+                  		<input [routerLink]="['company/detail/', company.id]" type="button" class="btn btn-secondary btn-sm" name="Detail" value="Detail">
+                  	</td>
+			    </tr>
+			  </tbody>
+			</table>
+		</div>
+	</div>
+</section>
